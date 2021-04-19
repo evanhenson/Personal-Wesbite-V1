@@ -1,0 +1,46 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body { 
+    font-family: Georgia, "Times New Roman", Times, serif;  
+    font-size: 12px;  
+    color: #000000;  
+    background-color: #FFFFFF;  
+} 
+
+header {
+	display: none;
+}
+
+img.big-circle, img.medium-circle, img.small-circle{
+    display: none;
+}
+
+.myresume{
+    text-align: center;
+}
+
+.myresume h1{
+    font-size: 40px;
+}
+
+.skills h3{
+    text-decoration: underline;
+    padding-top: 50px;
+}
+
+.edu h3{
+    text-decoration: underline;
+}
+
+.job h3{
+    text-decoration: underline;
+}
+
+.vol h3{
+    text-decoration: underline;
+}
+
